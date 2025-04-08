@@ -6,7 +6,7 @@ Problem Statement:
 Stock market analysis can be broadly classified into:
 - Fundamental Analysis: Focused on company performance and external market factors.
 - Technical Analysis: Based on historical prices, trends, and statistical indicators.
-Implementation Workflow
+Implementation Workflow:
 Import and preprocess the dataset
 Visualize stock trends and key patterns
 Perform feature scaling
@@ -19,6 +19,6 @@ Dropout
 Train the model
 Predict stock prices
 Visualize actual vs predicted values
-Learn More
+Learn More:
 I’ve written a detailed [blog post](https://www.blogger.com/u/2/blog/post/edit/1907108883869461564/5327685305629855056) explaining the reasoning behind each step, the challenges faced, and how the model was developed.
 
